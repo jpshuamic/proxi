@@ -3,6 +3,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "cd proxi-backend && npm start"
+    "startCommand": "npm start"
   }
 }
