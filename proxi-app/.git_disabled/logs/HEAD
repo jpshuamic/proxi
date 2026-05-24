@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 0b52350ab9dff89d26e655b8f1d8b6692fb9bca2 jpshuamic <jpshuamic@gmail.com> 1776988822 +0100	commit (initial): Proxi mobile app — welcome and register screens complete
+0b52350ab9dff89d26e655b8f1d8b6692fb9bca2 ed0dc4b75e385901eb95ce1d622ef5d4f9b55dcc jpshuamic <jpshuamic@gmail.com> 1776989195 +0100	commit: Proxi mobile app — auth screens complete
+ed0dc4b75e385901eb95ce1d622ef5d4f9b55dcc e9aa273af2e18a5d5cc8306fb160b7bd4a196feb jpshuamic <jpshuamic@gmail.com> 1777163437 +0100	commit: Proxi mobile app — core screens complete
+e9aa273af2e18a5d5cc8306fb160b7bd4a196feb 09a07080e0a3dc917a2c728220bad5fdf2f323d8 jpshuamic <jpshuamic@gmail.com> 1777166869 +0100	commit: Photo upload complete — 8 photos, wallet, all core screens done
+09a07080e0a3dc917a2c728220bad5fdf2f323d8 786f68c3b9f6f26557f191f919f3e239a7916499 jpshuamic <jpshuamic@gmail.com> 1777168192 +0100	commit: Profile screen complete with all fixes
+786f68c3b9f6f26557f191f919f3e239a7916499 85c2f9841414b7da18ff10e11f38ff35271f23aa jpshuamic <jpshuamic@gmail.com> 1777189704 +0100	commit: Bottom tab navigation complete — Proxi feels like a real app
+85c2f9841414b7da18ff10e11f38ff35271f23aa 7254ab4bff142b30789ed3c6cdb5dc065f28b39e jpshuamic <jpshuamic@gmail.com> 1777224619 +0100	commit: Messaging complete — conversations separated by listing, AI suggestions, attachment menu
